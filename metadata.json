@@ -1,0 +1,7 @@
+{
+  "name": "Copy of COOKSY",
+  "description": "Generate a 1–3 day meal plan balancing budget, time, kitchen setup, and ingredient availability.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
